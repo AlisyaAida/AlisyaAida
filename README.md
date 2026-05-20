@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: Machine Learning, Data Analytics & Web Development
 - 📈 Working on data analysis and predictive modeling projects
 - 💻 Experienced with Java, Python, SQL, JavaScript, and Power BI
 - 🎯 Seeking internship opportunities (Aug 2026 – Jan 2027)
@@ -36,11 +35,12 @@
 ---
 
 ## 📌 Featured Projects
-- 📊 Superstore Sales Data Analysis
+- 🏦 Ledger System
 - 🚆 Komuter Ridership Prediction
 - 🍱 MealShare: Surplus Food Donation App
-- 🎵 Muzec: Song Recommendation System
-
+- 🎵 Muzec: Song Recommendation System (OnGoing)
+- 📊 Superstore Sales Data Analysis (OnGoing)
+- 
 ---
 
 ## 📫 Connect With Me
