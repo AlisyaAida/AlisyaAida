@@ -39,8 +39,8 @@
 - 🚆 Komuter Ridership Prediction
 - 🍱 MealShare: Surplus Food Donation App
 - 🎵 Muzec: Song Recommendation System (OnGoing)
-- 📊 Superstore Sales Data Analysis (OnGoing)
-- 
+- 📊 Supermarket Sales Data Analysis (OnGoing)
+
 ---
 
 ## 📫 Connect With Me
